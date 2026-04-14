@@ -1,2 +1,3 @@
 # nimbus
-Nimbus Support 
+
+Now available for macOS, [download here](https://usenimbus.app)
