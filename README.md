@@ -6,13 +6,13 @@ An AI browser companion. Describe what you want to do, and Nimbus helps you navi
 
 ## Download
 
-Nimbus 0.0.19-alpha is available for:
+Nimbus 0.0.20-alpha is available for:
 
 - [macOS 13+ — Apple Silicon](https://github.com/syllogismos/nimbus/releases/latest/download/Nimbus-mac-arm64.dmg)
-- [Windows — x64](https://github.com/syllogismos/nimbus/releases/download/v0.0.19-alpha/Nimbus-0.0.19-alpha-win-x64.exe)
-- [Debian/Ubuntu Linux — amd64](https://github.com/syllogismos/nimbus/releases/download/v0.0.19-alpha/Nimbus-0.0.19-alpha-linux-amd64.deb)
+- [Windows — x64](https://github.com/syllogismos/nimbus/releases/download/v0.0.20-alpha/Nimbus-0.0.20-alpha-win-x64.exe)
+- [Debian/Ubuntu Linux — amd64](https://github.com/syllogismos/nimbus/releases/download/v0.0.20-alpha/Nimbus-0.0.20-alpha-linux-amd64.deb)
 
-[Release notes and checksums](https://github.com/syllogismos/nimbus/releases/tag/v0.0.19-alpha)
+[Release notes and checksums](https://github.com/syllogismos/nimbus/releases/tag/v0.0.20-alpha)
 
 ## Homebrew (macOS)
 
